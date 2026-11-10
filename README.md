@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vinicius Vilanova 👋</h1>
+<h1 align="center">Hi, I'm Vinicius Vila Nova 👋</h1>
 
 <p align="center">
   <b>Computer Engineer · Full Stack Developer · Founder at V2N Technology</b><br>
